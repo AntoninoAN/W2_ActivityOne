@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myResearchHW</string>
+    <string name="lbl_btn_return">RETURN</string>
+    <string name="lbl_et_last_name">LAST NAME</string>
+    <string name="lbl_et_name">NAME</string>
+    <string name="lbl_iv_picture">Picture</string>
+    <string name="lbl_iv_image_captured">IMAGE CAPTURED</string>
+    <string name="lbl_btn_activate_camera_4_fun">ACTIVATE CAMERA 4 FUN</string>
+    <string name="lbl_btn_see_details">SEE DETAILS</string>
+</resources>
